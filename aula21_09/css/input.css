@@ -1,0 +1,23 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background-color: rgba(0, 0, 0, 0.595);
+    color: white;
+}
+form{
+    margin-top: 4vw;
+    margin-right: 9vw;
+    margin-left: 9vw;  
+}
+input[type="text"]{
+    width: 10vw;
+    height: 4vw;
+    border-radius: 10px;
+}
+input[type="submit"]{
+    width: 8vw;
+    height: 4vw;
+    border-radius: 10px;
+}
